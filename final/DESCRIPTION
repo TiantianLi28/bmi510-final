@@ -1,0 +1,11 @@
+Package: final
+Type: Package
+Title: BMI510 Final package
+Version: 0.1.0
+Author: Tiantian Li
+Maintainer: Tiantian Li <tiantian.li@emory.edu>
+Description: Final package for BMI 510
+License: NA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
